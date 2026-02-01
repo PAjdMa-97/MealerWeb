@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MealerWeb.Application/MealerWeb.Application.csproj" />
+  <Project Path="MealerWeb.Domain/MealerWeb.Domain.csproj" />
+  <Project Path="MealerWeb.Infrastructure/MealerWeb.Infrastructure.csproj" />
+  <Project Path="MealerWeb.Presentation/MealerWeb.Presentation.csproj" />
+</Solution>
